@@ -1,10 +1,12 @@
 {
-  "1":{
-    "name": "shuhrat",
-    "age": "17"
+  "1":
+  {
+    "name": "Muhammadaziz",
+    "age": 17
   },
-  "2":{
-    "name": "aziz",
-    "age": "17"
+  "2":
+  {
+    "name": "Abbos",
+    "age": 17
   }
 }
